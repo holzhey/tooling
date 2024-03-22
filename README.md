@@ -124,3 +124,36 @@ Another way to check your disk usage.
 It is ok to use vi to edit my git rebases, but with this tool it is very easy and less prone to errors!
 
 [GitHub](https://github.com/MitMaro/git-interactive-rebase-tool)
+
+## tuime
+
+Yeah, sometimes i just wanted a nice clock in my terminal while i am thinking about something else...
+
+[GitHub](https://github.com/nate-sys/tuime)
+
+## mpv
+
+Play videos in your terminal!
+
+[GitHub](https://github.com/mpv-player/mpv)
+[Official Site](https://mpv.io/)
+
+# yt-dlp
+
+You never know if that video you really like will be removed from the internet.
+I personally like to keep them!
+
+[GitHub](https://github.com/yt-dlp/yt-dlp)
+
+# russ
+
+Stay up to date with RSS feeds!
+
+[GitHub](https://github.com/ckampfe/russ)
+
+# Bottom
+
+Clone of top, htop, etc.
+I find it cleaner to see overall usage. And you can go into details if you need to.
+
+[GitHub](https://github.com/ClementTsang/bottom)
