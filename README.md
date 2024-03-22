@@ -138,22 +138,52 @@ Play videos in your terminal!
 [GitHub](https://github.com/mpv-player/mpv)
 [Official Site](https://mpv.io/)
 
-# yt-dlp
+## yt-dlp
 
 You never know if that video you really like will be removed from the internet.
 I personally like to keep them!
 
 [GitHub](https://github.com/yt-dlp/yt-dlp)
 
-# russ
+## russ
 
 Stay up to date with RSS feeds!
 
 [GitHub](https://github.com/ckampfe/russ)
 
-# Bottom
+## Bottom
 
 Clone of top, htop, etc.
 I find it cleaner to see overall usage. And you can go into details if you need to.
 
 [GitHub](https://github.com/ClementTsang/bottom)
+
+## MailHog
+
+This allows to send emails locally for quick tests during development.
+Basically a local mail server with an web UI.
+
+[GitHub](https://github.com/mailhog/MailHog)
+
+## Catppuccin
+
+Common, i shared a lot of tools with great and colorful output.
+So let me share the theme i use everywhere!
+
+[GitHub](https://github.com/catppuccin)
+
+## HTTPie
+
+I find Postman too complex and Insomnia now requires a login.
+So to test my APIs i use HTTPie Desktop.
+
+[GitHub](https://github.com/httpie)
+[Official Site](https://httpie.io/)
+
+## GitUI
+
+I really like to use git at CLI. I think that by using graphical UI will make me unaware of what i am doing.
+But sometimes is good to have a helper to quickly navigate between commits and diffs, this is where i use GitUI!
+
+[GitHub](https://github.com/extrawurst/gitui)
+
