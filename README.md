@@ -119,3 +119,8 @@ Another way to check your disk usage.
 
 [GitHub](https://github.com/bootandy/dust)
 
+## Interactive rebase
+
+It is ok to use vi to edit my git rebases, but with this tool it is very easy and less prone to errors!
+
+[GitHub](https://github.com/MitMaro/git-interactive-rebase-tool)
