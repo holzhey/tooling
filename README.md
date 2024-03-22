@@ -81,3 +81,41 @@ Forget about! CSVLENS is much better and faster, of course!
 Simply a binary file viewer.
 
 [GitHub](https://github.com/sharkdp/hexyl)
+
+## viu
+
+I really like teh terminal environment, you can even open images!
+
+[GitHub](https://github.com/atanunq/viu)
+
+## Delta
+
+Git diffs are nice, but to me this one make it better.
+
+[GitHub](https://github.com/dandavison/delta)
+
+## Just
+
+Forget about Makefiles!!
+
+[GitHub](https://github.com/casey/just)
+
+## Papeer
+
+Grab a website and save it as a PUB or Markdown file.
+
+[GitHub](https://github.com/lapwat/papeer)
+[Official Site](https://papeer.tech/)
+
+## Jql
+
+Yeah, jq by Rust!! They are not the same! ;-) 
+
+[GitHub](https://github.com/yamafaktory/jql)
+
+## Dust
+
+Another way to check your disk usage.
+
+[GitHub](https://github.com/bootandy/dust)
+
