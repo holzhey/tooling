@@ -187,3 +187,16 @@ But sometimes is good to have a helper to quickly navigate between commits and d
 
 [GitHub](https://github.com/extrawurst/gitui)
 
+## jnv
+
+Interactive json viewer with highlighting and jq filtering.
+
+[GitHub](https://github.com/ynqa/jnv)
+
+## Rain
+
+Tool to deploy, delete and check AWS CLoudFormation templates and stacks.
+Yes, AWS CLI does the same, but once again the UX here is better.
+
+[GitHub](https://github.com/aws-cloudformation/rain)
+
