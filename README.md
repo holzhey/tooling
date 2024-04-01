@@ -200,3 +200,19 @@ Yes, AWS CLI does the same, but once again the UX here is better.
 
 [GitHub](https://github.com/aws-cloudformation/rain)
 
+## Alacritty
+
+I was using iTerm2 for a long time, then i found this OpenGL accelerated terminal.
+It is pretty fast, configurable, i did not struggle to configure and use the mouse and keyboard in my Mac,
+plus it is cross-platform so it will survive the day i move to [System76](https://system76.com/) machines with a Linux based distro!
+
+[GitHub](https://github.com/alacritty/alacritty)
+[Official Site](https://alacritty.org/)
+
+## Zellij
+
+After my move to Alacritty, i also decided to use a new approach for managing my tabs, not relying in Iterm2 anymore.
+This one it awesome! Very easy to get used plus very configurable and extendable.
+
+[GitHub](https://github.com/zellij-org/zellij)
+[Official Site](https://zellij.dev)
