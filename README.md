@@ -205,6 +205,7 @@ Yes, AWS CLI does the same, but once again the UX here is better.
 I was using iTerm2 for a long time, then i found this OpenGL accelerated terminal.
 It is pretty fast, configurable, i did not struggle to configure and use the mouse and keyboard in my Mac,
 plus it is cross-platform so it will survive the day i move to [System76](https://system76.com/) machines with a Linux based distro!
+Edit: i still like it, but after trying it a bit more i found out that there is no tab support, so let's back to iTerm for now.
 
 [GitHub](https://github.com/alacritty/alacritty)
 [Official Site](https://alacritty.org/)
