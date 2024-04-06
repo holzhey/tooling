@@ -217,3 +217,9 @@ This one it awesome! Very easy to get used plus very configurable and extendable
 
 [GitHub](https://github.com/zellij-org/zellij)
 [Official Site](https://zellij.dev)
+
+## Rust Search extension
+
+For both Firefox and Chrome, a search tool for Rust documentation.
+
+[Official Site](https://rust.extension.sh/)
