@@ -28,12 +28,35 @@ Yazi is a powerfull terminal file manager, where you can copy, rename, move file
 
 ## Helix editor
 
-About one year ago i was solely an IDE developer, using vi/vim just for some basic file manipulation when necessary.
+About one year ago i was solely an IDE based developer, using vi/vim just for some basic file manipulation when necessary.
 Then i decided to try neovim and i was fascinated by its ecosytem and usability, specially regarding the LSP funcitions (learn once, apply to all).
 Finally, i found Helix. It's concept is a bit different, but is much more faster specially for LSP and it support a lot of languages.
 
 [GitHub](https://github.com/helix-editor/helix)
 [Official Site](https://helix-editor.com/)
+
+## NeoVim
+
+But NeoVim is great and sometimes i use it specially when working on some file type which the LSP is missing on Helix, like CloudFormation templates.
+
+[GitHub](https://github.com/neovim/neovim)
+[Official Site](https://neovim.io/)
+
+### LazyVim
+
+You can get started with NeoVim by using LazyVim: the name says all!
+
+[GitHUb](https://github.com/LazyVim/LazyVim)
+[Official Site](https://www.lazyvim.org/)
+
+### Nvchad
+
+This is also pretty nice to get started with NeoVim, much cleaner from start so you will have to configure it yourself.
+In my opinion it is faster than using LazyVim, probably because all the missing plugins... which is a great thing from LazyVim as you have a lot of
+good plugins selection + configuration working smoothly from scratch.
+
+[GitHub](https://github.com/NvChad/NvChad)
+[Official Site](https://nvchad.com/)
 
 ## Tailspin
 
