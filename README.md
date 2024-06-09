@@ -252,3 +252,9 @@ For both Firefox and Chrome, a search tool for Rust documentation.
 Pretty cool to check out the weather conditions on your CLI, based on Open-Meteo.
 
 [GitHub](https://github.com/mlange-42/tom)
+
+## Git-Graph
+
+Simple but nice tool to view your git history in a graph.
+
+[GitHub](https://github.com/mlange-42/git-graph)
