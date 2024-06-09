@@ -246,3 +246,9 @@ This one it awesome! Very easy to get used plus very configurable and extendable
 For both Firefox and Chrome, a search tool for Rust documentation.
 
 [Official Site](https://rust.extension.sh/)
+
+## Tom - Terminal for Open-Meteo
+
+Pretty cool to check out the weather conditions on your CLI, based on Open-Meteo.
+
+[GitHub](https://github.com/mlange-42/tom)
