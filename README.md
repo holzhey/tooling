@@ -258,3 +258,10 @@ Pretty cool to check out the weather conditions on your CLI, based on Open-Meteo
 Simple but nice tool to view your git history in a graph.
 
 [GitHub](https://github.com/mlange-42/git-graph)
+
+## Exa
+
+LS Deluxe is really cool, but i discovered Exa! It has similar features, but is faster, more configurable and provides Git information.
+
+[GitHub](https://github.com/ogham/exa)
+[Official Site](https://the.exa.website/)
