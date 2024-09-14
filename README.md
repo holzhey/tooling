@@ -265,3 +265,11 @@ LS Deluxe is really cool, but i discovered Exa! It has similar features, but is 
 
 [GitHub](https://github.com/ogham/exa)
 [Official Site](https://the.exa.website/)
+
+## Cargo-Machete
+
+Check whenever you have unused dependencies in your Rust project, both locally or in a GitHub action.
+
+[GitHuh](https://github.com/bnjbvr/cargo-machete)
+
+
