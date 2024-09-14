@@ -272,4 +272,10 @@ Check whenever you have unused dependencies in your Rust project, both locally o
 
 [GitHuh](https://github.com/bnjbvr/cargo-machete)
 
+## WezTerm
 
+This terminal emulator (and multiplexer) fits much better my profile than iTerm2 and other terminals. It is developed in Rust and have all the features that i need.
+It supports tabs, you can split it into multiples panes, navigate and resize them very easily. You can also select and copy content using only your keyboard.
+
+[GitHub](https://github.com/wez/wezterm)
+[Official Site](https://wezfurlong.org/wezterm/)
