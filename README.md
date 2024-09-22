@@ -280,9 +280,15 @@ It supports tabs, you can split it into multiples panes, navigate and resize the
 [GitHub](https://github.com/wez/wezterm)
 [Official Site](https://wezfurlong.org/wezterm/)
 
-
 ## Cyme
 
 Another TUI project to listing USB devices using your terminal, similar to `lsusb`. With plenty of options, you can adjust the output as required (i use it for Arduino development).
 
 [GitHub](https://github.com/tuna-f1sh/cyme)
+
+## Pik
+
+Sometimes, you just need to kill some process. I fetch the PID and kill it, but now we have Pik!
+
+[GitHub](https://github.com/jacek-kurlit/pik)
+[Crates.io](https://crates.io/crates/pik)
