@@ -292,3 +292,9 @@ Sometimes, you just need to kill some process. I fetch the PID and kill it, but 
 
 [GitHub](https://github.com/jacek-kurlit/pik)
 [Crates.io](https://crates.io/crates/pik)
+
+## Pls
+
+Yet another `ls` replacement! This one has a deep level of detailed information and it is completely configurable.
+[GitHub](https://github.com/pls-rs/pls)
+[Official Site](https://pls.cli.rs/)
