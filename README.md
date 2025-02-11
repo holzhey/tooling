@@ -304,3 +304,9 @@ Yet another `ls` replacement! This one has a deep level of detailed information 
 Simples but useful tool to convert epoch data on CLI.
 [GitHub](https://github.com/RedVoxInc/epoch-cli)
 [DOCS.RS](https://docs.rs/epoch-cli/latest/epoch_cli/)
+
+## Rwalk
+
+Fast web directory scanner.
+[GitHub](https://github.com/cestef/rwalk)
+[Official Site](https://rwalk.cstef.dev/)
