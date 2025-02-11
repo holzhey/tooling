@@ -298,3 +298,9 @@ Sometimes, you just need to kill some process. I fetch the PID and kill it, but 
 Yet another `ls` replacement! This one has a deep level of detailed information and it is completely configurable.
 [GitHub](https://github.com/pls-rs/pls)
 [Official Site](https://pls.cli.rs/)
+
+## Epoch
+
+Simples but useful tool to convert epoch data on CLI.
+[GitHub](https://github.com/RedVoxInc/epoch-cli)
+[DOCS.RS](https://docs.rs/epoch-cli/latest/epoch_cli/)
