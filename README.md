@@ -310,3 +310,8 @@ Simples but useful tool to convert epoch data on CLI.
 Fast web directory scanner.
 [GitHub](https://github.com/cestef/rwalk)
 [Official Site](https://rwalk.cstef.dev/)
+
+## The CSV migician (xan)
+
+Really nice CSV tool to quickly navigate into a CSV file, plus with a lot of manupulation features including an expression language for querying!
+[GitHub](https://github.com/medialab/xan)
