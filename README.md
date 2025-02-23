@@ -315,3 +315,9 @@ Fast web directory scanner.
 
 Really nice CSV tool to quickly navigate into a CSV file, plus with a lot of manupulation features including an expression language for querying!
 [GitHub](https://github.com/medialab/xan)
+
+## DDV
+
+DynamoDB browser for CLI! Besides it is not intended (yet?!) for large tables, it is a good tool for navigating DDB tables easily.
+[GitHub](https://github.com/lusingander/ddv)
+[Official Site](https://lusingander.github.io/ddv/)
