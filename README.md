@@ -321,3 +321,9 @@ Really nice CSV tool to quickly navigate into a CSV file, plus with a lot of man
 DynamoDB browser for CLI! Besides it is not intended (yet?!) for large tables, it is a good tool for navigating DDB tables easily.
 [GitHub](https://github.com/lusingander/ddv)
 [Official Site](https://lusingander.github.io/ddv/)
+
+## JLess
+
+Practical and nice JSON viewer for CLI.
+[GitHub](https://github.com/PaulJuliusMartinez/jless)
+[Official Site](https://jless.io/)
