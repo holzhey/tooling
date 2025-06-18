@@ -327,3 +327,9 @@ DynamoDB browser for CLI! Besides it is not intended (yet?!) for large tables, i
 Practical and nice JSON viewer for CLI.
 [GitHub](https://github.com/PaulJuliusMartinez/jless)
 [Official Site](https://jless.io/)
+
+## Bacon
+
+Sometimes i need a watcher to update my Rust web applications during development. Bacon does the job and is made with Rust! It also support other languages like Python, JS/TS, etc.
+[GitHub](https://github.com/Canop/bacon)
+[Official Site](https://dystroy.org/bacon/)
