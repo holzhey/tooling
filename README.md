@@ -333,3 +333,9 @@ Practical and nice JSON viewer for CLI.
 Sometimes i need a watcher to update my Rust web applications during development. Bacon does the job and is made with Rust! It also support other languages like Python, JS/TS, etc.
 [GitHub](https://github.com/Canop/bacon)
 [Official Site](https://dystroy.org/bacon/)
+
+## Ghostty
+
+WezTerm is great, but i give a try to Ghostty and it is more integrated with MacOS: better key shortcuts, copy & paste experience and fast. I don't use Lua scripting and i really like very fast response, which is a big thing on Ghostty as well.
+[GitHub](https://github.com/ghostty-org/ghostty)
+[Official Site](https://ghostty.org/)
