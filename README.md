@@ -345,3 +345,8 @@ WezTerm is great, but i give a try to Ghostty and it is more integrated with Mac
 Finally a great and user friendly tool to inspect network traffic! With a great GUI i could easily inspect overall traffic. Maybe not a deep technical tool, with plenty of details and options, but for sure the easiest to inspect traffic at a high level.
 [GitHub](https://github.com/GyulyVGC/sniffnet)
 [Official Site](https://sniffnet.net/)
+
+## Tide
+
+Fish is a awesome shell but with Tide it become even better. Tide is prompt for Fish shell that simplify it, providing useful information at fast speed.
+[GitHub](https://github.com/IlanCosman/tide)
