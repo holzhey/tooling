@@ -339,3 +339,9 @@ Sometimes i need a watcher to update my Rust web applications during development
 WezTerm is great, but i give a try to Ghostty and it is more integrated with MacOS: better key shortcuts, copy & paste experience and fast. I don't use Lua scripting and i really like very fast response, which is a big thing on Ghostty as well.
 [GitHub](https://github.com/ghostty-org/ghostty)
 [Official Site](https://ghostty.org/)
+
+## Sniffnet
+
+Finally a great and user friendly tool to inspect network traffic! With a great GUI i could easily inspect overall traffic. Maybe not a deep technical tool, with plenty of details and options, but for sure the easiest to inspect traffic at a high level.
+[GitHub](https://github.com/GyulyVGC/sniffnet)
+[Official Site](https://sniffnet.net/)
