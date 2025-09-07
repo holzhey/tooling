@@ -333,6 +333,7 @@ Practical and nice JSON viewer for CLI.
 Sometimes i need a watcher to update my Rust web applications during development. Bacon does the job and is made with Rust! It also support other languages like Python, JS/TS, etc.
 [GitHub](https://github.com/Canop/bacon)
 [Official Site](https://dystroy.org/bacon/)
+<<<<<<< HEAD
 
 ## Ghostty
 
@@ -350,3 +351,8 @@ Finally a great and user friendly tool to inspect network traffic! With a great 
 
 Fish is a awesome shell but with Tide it become even better. Tide is prompt for Fish shell that simplify it, providing useful information at fast speed.
 [GitHub](https://github.com/IlanCosman/tide)
+
+## Envx
+
+System environment variables viewer and manager.
+[GitHub](https://github.com/mikeleppane/envx)
