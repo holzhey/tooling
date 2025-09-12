@@ -356,3 +356,9 @@ Fish is a awesome shell but with Tide it become even better. Tide is prompt for 
 
 System environment variables viewer and manager.
 [GitHub](https://github.com/mikeleppane/envx)
+
+## Mise (mise-en-place)
+
+"Development tools management" as they said, i use it to manage multiple versions of Python and Node. It is much easier and effective than dealing with my previous approach with Homebrew and PATH configuration.
+[GitHub](https://github.com/jdx/mise)
+[Official Site](https://mise.jdx.dev/)
